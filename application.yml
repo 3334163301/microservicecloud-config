@@ -1,10 +1,10 @@
-﻿spring:
-  profiles:
-    active:
+﻿spring: 
+  profiles: 
+    active: 
     - dev
 ---
-spring:
+spring: 
   profiles: dev
-  application:
+  application: 
     name: microservicecloud-config-atguigu-test
 # please save as UTF-8 format
